@@ -1,0 +1,7 @@
+CNKI下载文章信息
+pyredis得到学生姓名
+
+settings变更MONGODATABASE
+
+spider变更build——q中学校
+piplines变更collectionname
